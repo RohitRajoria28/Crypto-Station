@@ -284,14 +284,13 @@ body {
 }
 .all-crypto-table-box{
     width: 100vw;
-    /* height: 120vh; */
+    height: 120vh;
     
 }
 .table-crypto-all{
+    height: 3vh;
     margin-top: 3rem;
-    width: 100vw;
-     
-    
+    width: 100vw;  
 }
  
  
@@ -304,12 +303,13 @@ td{
     color: rgba(238, 210, 245, 0.822);
 }
 th{
-     
+    height: 3vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:#41096b ;
     margin-bottom: 1rem;
 }
 .cypto-table-headings{
+    height: 6vh;
     background:linear-gradient(-45deg,#6c0d9b, #830BD6,#8567b3,#dabcf1); ;
 }
 .tag-line-tag{
